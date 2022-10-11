@@ -1,3 +1,4 @@
+package edu.nascimento.primeirasemana;
 public class MyClass2 {
     // public static void main(String[] args) {
     //     System.out.println("Aoba!");
@@ -18,6 +19,16 @@ public class MyClass2 {
         String fullName = completeName(name1, name2);
 
         System.out.println(fullName);
+
+        String concatenacao = "?";
+        concatenacao = 1 + 1 + "1" + 5 ;
+        //ele soma enquanto só aparecerem int e concatena quando identificar que se torna uma string
+        
+        System.out.println(concatenacao);
+
+
+        concatenacao =  8 + 1 + concatenacao;
+        System.out.println(concatenacao);
     }
     
     public static String completeName (String name1, String name2) {
