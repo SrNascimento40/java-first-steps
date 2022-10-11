@@ -1,0 +1,41 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyClass",
+            "request": "launch",
+            "mainClass": "MyClass",
+            "projectName": "ClassAnatomy_7943b394",
+            "args": [
+                "Wallace",
+                "Nascimento"
+                /* Aqui são adicionados os parâmetros que o programa pede */
+            ]
+        },
+        {
+            "type": "java",
+            "name": "Launch MyClass2",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.MyClass2",
+            "projectName": "ClassAnatomy_7943b394"
+        },
+        {
+            "type": "java",
+            "name": "Launch Usuario",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.Usuario",
+            "projectName": "ClassAnatomy_7943b394"
+        }
+    ]
+}
