@@ -4,7 +4,34 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-
+        {
+            "type": "java",
+            "name": "Launch ExercicioArray",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.ExercicioArray",
+            "projectName": "ClassAnatomy_7943b394"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioLoop3",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.ExercicioLoop3",
+            "projectName": "ClassAnatomy_7943b394"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExercicioLoop",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.ExercicioLoop",
+            "projectName": "ClassAnatomy_7943b394"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex1_NomeEIdade",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.Ex1_NomeEIdade",
+            "projectName": "ClassAnatomy_7943b394"
+        },
         {
             "type": "java",
             "name": "Launch Current File",
@@ -20,7 +47,6 @@
             "args": [
                 "Wallace",
                 "Nascimento"
-                /* Aqui são adicionados os parâmetros que o programa pede */
             ]
         },
         {
