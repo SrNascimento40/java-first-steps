@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Teste5",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.Teste5",
+            "projectName": "ClassAnatomy_7943b394"
+        },
+        {
+            "type": "java",
             "name": "Launch teste4",
             "request": "launch",
             "mainClass": "edu.nascimento.primeirasemana.teste4",
