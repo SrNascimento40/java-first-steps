@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch teste4",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.teste4",
+            "projectName": "ClassAnatomy_7943b394"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste3",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.Teste3",
+            "projectName": "ClassAnatomy_7943b394"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste2",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.Teste2",
+            "projectName": "ClassAnatomy_7943b394"
+        },
+        {
+            "type": "java",
+            "name": "Launch Teste",
+            "request": "launch",
+            "mainClass": "edu.nascimento.primeirasemana.Teste",
+            "projectName": "ClassAnatomy_7943b394"
+        },
+        {
+            "type": "java",
             "name": "Launch ExercicioArray",
             "request": "launch",
             "mainClass": "edu.nascimento.primeirasemana.ExercicioArray",

@@ -19,7 +19,7 @@ public class ExercicioLoop {
             System.out.println("Nome: ");
             nome = scan.next();
             if (nome.equals("0")) break;
-            // Código para ao inserir 0 como nome
+            // Código vai parar ao inserir '0' como nome
 
             System.out.println("Idade: ");
             idade = scan.nextInt();
